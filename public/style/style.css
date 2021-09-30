@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #36393e;
+	color: #dcddde;
+	font-family: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size: 1em;
+        text-rendering: optimizeLegibility;
+}
+
+.center {
+	text-align: center;
+}
+
+.text {
+	margin-left: 5%;
+}
+
+a,
+a:active,
+a:visited {
+	color: #00b0f4;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+code {
+	background: #2f3136;
+        filter: contrast(1);
+}
+td,th {
+padding:1em;
+}
