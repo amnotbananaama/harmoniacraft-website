@@ -17,7 +17,7 @@ app.use(express.static(__dirname + '/public', {
 }));
 
 /* Generates a one time use Discord invite link, and redirects the request there. */
-/* https://harmoniacraft.cf/discord */
+/* https://harmoniacraft.net/discord */
 app.get('/discord', async (req, res, next) => {
 
   /* Discord API URL to send POST request for a new invite link. */

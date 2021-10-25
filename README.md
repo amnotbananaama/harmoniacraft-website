@@ -1,7 +1,7 @@
 # Harmoniacraft Website
 Welcome to the repository for the HarmoniaCraft server website!
 
-The website may be found at: <https://harmoniacraft.cf>.
+The website may be found at: <https://harmoniacraft.net>.
 
 ⚠️ **Warning:** ⚠️ This repository is currently under construction, much like HarmoniaCraft itself! Expect drastic changes in short order.
 
